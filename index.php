@@ -20,12 +20,11 @@ $update =false;
 //  succed!
 // </div>';
 // }
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "without";
-
-$connection = mysqli_connect($servername,$username,$password,$database);
+$server = "sql210.epizy.com";
+$username = "epiz_26584774";
+$passowrd = "T2x81zHhsm";
+$database = "epiz_26584774_advance";
+$connection = mysqli_connect($server,$username,$passowrd,$database);
 
 // if ($connection){
 //     echo "connection successfull";
