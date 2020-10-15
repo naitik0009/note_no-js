@@ -1,2 +1,2 @@
 # note_no-js
-Welcome to my note website
+Welcome to my note website..
